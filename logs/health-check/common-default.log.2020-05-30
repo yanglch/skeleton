@@ -1,0 +1,18 @@
+2020-05-30 05:59:14,406 INFO  main                             - Found 2 HealthChecker implementation:sofaModuleHealthChecker,sofaComponentHealthChecker
+2020-05-30 05:59:14,408 INFO  main                             - Found 5 HealthIndicator implementation:sofaModuleHealthIndicator,sofaBootHealthIndicator,multiApplicationHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2020-05-30 05:59:14,409 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2020-05-30 05:59:14,410 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2020-05-30 05:59:14,411 INFO  main                             - HealthChecker[sofaModuleHealthChecker] readiness check success with 0 retry.
+2020-05-30 05:59:14,412 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2020-05-30 05:59:14,412 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2020-05-30 05:59:14,412 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2020-05-30 05:59:14,413 INFO  main                             - HealthIndicator[sofaModuleHealthIndicator] readiness check success.
+2020-05-30 05:59:14,414 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2020-05-30 05:59:14,414 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2020-05-30 05:59:14,414 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2020-05-30 05:59:14,414 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2020-05-30 05:59:14,414 INFO  main                             - Readiness check result: success
+2020-05-30 05:59:15,641 INFO  RMI TCP Connection(2)-192.168.99.1 - Begin SOFABoot HealthChecker liveness check.
+2020-05-30 05:59:15,642 INFO  RMI TCP Connection(2)-192.168.99.1 - HealthChecker[sofaModuleHealthChecker] liveness check success with 0 retry.
+2020-05-30 05:59:15,642 INFO  RMI TCP Connection(2)-192.168.99.1 - HealthChecker[sofaComponentHealthChecker] liveness check success with 0 retry.
+2020-05-30 05:59:15,642 INFO  RMI TCP Connection(2)-192.168.99.1 - SOFABoot HealthChecker liveness check result: success.

@@ -1,0 +1,259 @@
+2020-06-02 01:16:05,877 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 01:16:08,935 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 01:16:08,942 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 01:16:08,942 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 01:16:08,942 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2020-06-02 01:16:08,943 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 01:16:08,944 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 01:16:08,944 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2020-06-02 01:16:08,944 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 01:18:54,462 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 01:18:56,995 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 01:18:57,000 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 01:18:57,000 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 01:18:57,000 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2020-06-02 01:18:57,001 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 01:18:57,001 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 01:18:57,001 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2020-06-02 01:18:57,001 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 01:19:56,038 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 01:19:58,730 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 01:19:58,734 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 01:19:58,734 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 01:19:58,734 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2020-06-02 01:19:58,735 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 01:19:58,735 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 01:19:58,735 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2020-06-02 01:19:58,735 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 02:13:04,130 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:19:14,842 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:19:17,215 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 02:19:17,219 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 02:19:17,219 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 02:19:17,219 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2020-06-02 02:19:17,220 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 02:19:17,220 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 02:19:17,220 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2020-06-02 02:19:17,220 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 02:22:51,455 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:22:53,771 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 02:22:53,777 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 02:22:53,777 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 02:22:53,778 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.web.home
+
+Modules that could install(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.web.home
+
+2020-06-02 02:22:53,778 INFO  main                             - Start install skeleton's module: org.example.skeleton.web.home
+2020-06-02 02:22:54,179 INFO  sofa-module-start-org.example.skeleton.web.home - Begin refresh Spring Application Context of module org.example.skeleton.web.home of application skeleton.
+2020-06-02 02:22:54,204 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 02:22:54,204 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 02:22:54,204 INFO  main                             - 
+Spring context initialize success module list(1) >>>>>>> [totalTime = 22 ms, realTime = 22 ms]
+  └─ org.example.skeleton.web.home [22 ms]
+       `---D:\java\ideaProject\skeleton\app\web\home\target\classes\META-INF\spring\web-home.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(1) >>>>>>> [totalTime = 22 ms, realTime = 22 ms]
+  └─ org.example.skeleton.web.home [22 ms]
+
+2020-06-02 02:22:54,204 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 02:24:24,565 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:24:26,879 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 02:24:26,885 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 02:24:26,885 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 02:24:26,886 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.web.home
+
+Modules that could install(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.web.home
+
+2020-06-02 02:24:26,887 INFO  main                             - Start install skeleton's module: org.example.skeleton.web.home
+2020-06-02 02:24:27,005 INFO  sofa-module-start-org.example.skeleton.web.home - Begin refresh Spring Application Context of module org.example.skeleton.web.home of application skeleton.
+2020-06-02 02:24:27,031 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 02:24:27,031 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 02:24:27,031 INFO  main                             - 
+Spring context initialize success module list(1) >>>>>>> [totalTime = 24 ms, realTime = 24 ms]
+  └─ org.example.skeleton.web.home [24 ms]
+       `---D:\java\ideaProject\skeleton\app\web\home\target\classes\META-INF\spring\web-home.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(1) >>>>>>> [totalTime = 24 ms, realTime = 24 ms]
+  └─ org.example.skeleton.web.home [24 ms]
+
+2020-06-02 02:24:27,032 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 02:25:45,963 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:25:48,337 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 02:25:48,343 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 02:25:48,344 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 02:25:48,345 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.web.home
+
+Modules that could install(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.web.home
+
+2020-06-02 02:25:48,346 INFO  main                             - Start install skeleton's module: org.example.skeleton.web.home
+2020-06-02 02:25:48,449 INFO  sofa-module-start-org.example.skeleton.web.home - Begin refresh Spring Application Context of module org.example.skeleton.web.home of application skeleton.
+2020-06-02 02:25:48,473 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 02:25:48,473 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 02:25:48,474 INFO  main                             - 
+Spring context initialize success module list(1) >>>>>>> [totalTime = 23 ms, realTime = 23 ms]
+  └─ org.example.skeleton.web.home [23 ms]
+       `---D:\java\ideaProject\skeleton\app\web\home\target\classes\META-INF\spring\web-home.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(1) >>>>>>> [totalTime = 23 ms, realTime = 23 ms]
+  └─ org.example.skeleton.web.home [23 ms]
+
+2020-06-02 02:25:48,474 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 02:26:59,665 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:27:01,948 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 02:27:01,953 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 02:27:01,953 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 02:27:01,954 INFO  main                             - 
+All activated module list(3) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  ├─ org.example.skeleton.common.dal
+  └─ org.example.skeleton.web.home
+
+Modules that could install(3) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  ├─ org.example.skeleton.common.dal
+  └─ org.example.skeleton.web.home
+
+2020-06-02 02:27:01,955 INFO  main                             - Start install skeleton's module: org.example.skeleton.common.dal
+2020-06-02 02:27:02,053 INFO  main                             - Start install skeleton's module: org.example.skeleton.web.home
+2020-06-02 02:27:02,080 INFO  sofa-module-start-org.example.skeleton.web.home - Begin refresh Spring Application Context of module org.example.skeleton.web.home of application skeleton.
+2020-06-02 02:27:02,080 INFO  sofa-module-start-org.example.skeleton.common.dal - Begin refresh Spring Application Context of module org.example.skeleton.common.dal of application skeleton.
+2020-06-02 02:27:02,103 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 02:27:02,103 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 02:27:02,103 INFO  main                             - 
+Spring context initialize success module list(2) >>>>>>> [totalTime = 40 ms, realTime = 20 ms]
+  ├─ org.example.skeleton.web.home [20 ms]
+  │    `---D:\java\ideaProject\skeleton\app\web\home\target\classes\META-INF\spring\web-home.xml
+  └─ org.example.skeleton.common.dal [20 ms]
+       `---D:\java\ideaProject\skeleton\app\common\dal\target\classes\META-INF\spring\common-dal.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(2) >>>>>>> [totalTime = 40 ms, realTime = 20 ms]
+  ├─ org.example.skeleton.web.home [20 ms]
+  └─ org.example.skeleton.common.dal [20 ms]
+
+2020-06-02 02:27:02,103 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 02:27:51,937 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:27:54,216 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 02:27:54,221 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 02:27:54,222 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 02:27:54,222 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.common.dal
+
+Modules that could install(2) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  └─ org.example.skeleton.common.dal
+
+2020-06-02 02:27:54,223 INFO  main                             - Start install skeleton's module: org.example.skeleton.common.dal
+2020-06-02 02:27:54,314 INFO  sofa-module-start-org.example.skeleton.common.dal - Begin refresh Spring Application Context of module org.example.skeleton.common.dal of application skeleton.
+2020-06-02 02:27:54,333 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 02:27:54,333 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 02:27:54,333 INFO  main                             - 
+Spring context initialize success module list(1) >>>>>>> [totalTime = 18 ms, realTime = 18 ms]
+  └─ org.example.skeleton.common.dal [18 ms]
+       `---D:\java\ideaProject\skeleton\app\common\dal\target\classes\META-INF\spring\common-dal.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(1) >>>>>>> [totalTime = 18 ms, realTime = 18 ms]
+  └─ org.example.skeleton.common.dal [18 ms]
+
+2020-06-02 02:27:54,333 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
+2020-06-02 02:31:31,231 INFO  main                             - SOFABoot Runtime Starting!
+2020-06-02 02:31:33,629 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-06-02 02:31:33,634 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-06-02 02:31:33,634 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-06-02 02:31:33,635 INFO  main                             - 
+All activated module list(3) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  ├─ org.example.skeleton.common.dal
+  └─ org.example.skeleton.web.home
+
+Modules that could install(3) >>>>>>>
+  ├─ org.example.skeleton.bootstrap
+  ├─ org.example.skeleton.common.dal
+  └─ org.example.skeleton.web.home
+
+2020-06-02 02:31:33,636 INFO  main                             - Start install skeleton's module: org.example.skeleton.common.dal
+2020-06-02 02:31:33,723 INFO  main                             - Start install skeleton's module: org.example.skeleton.web.home
+2020-06-02 02:31:33,746 INFO  sofa-module-start-org.example.skeleton.web.home - Begin refresh Spring Application Context of module org.example.skeleton.web.home of application skeleton.
+2020-06-02 02:31:33,747 INFO  sofa-module-start-org.example.skeleton.common.dal - Begin refresh Spring Application Context of module org.example.skeleton.common.dal of application skeleton.
+2020-06-02 02:31:33,769 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-06-02 02:31:33,769 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-06-02 02:31:33,769 INFO  main                             - 
+Spring context initialize success module list(2) >>>>>>> [totalTime = 42 ms, realTime = 21 ms]
+  ├─ org.example.skeleton.common.dal [21 ms]
+  │    `---D:\java\ideaProject\skeleton\app\common\dal\target\classes\META-INF\spring\common-dal.xml
+  └─ org.example.skeleton.web.home [21 ms]
+       `---D:\java\ideaProject\skeleton\app\web\home\target\classes\META-INF\spring\web-home.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(2) >>>>>>> [totalTime = 42 ms, realTime = 21 ms]
+  ├─ org.example.skeleton.common.dal [21 ms]
+  └─ org.example.skeleton.web.home [21 ms]
+
+2020-06-02 02:31:33,770 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++

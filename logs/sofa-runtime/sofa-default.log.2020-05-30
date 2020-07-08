@@ -1,0 +1,19 @@
+2020-05-30 05:59:11,224 INFO  main                             - SOFABoot Runtime Starting!
+2020-05-30 05:59:14,396 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton Start +++++++++++++++++
+2020-05-30 05:59:14,401 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of skeleton End +++++++++++++++++
+2020-05-30 05:59:14,401 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton Start +++++++++++++++++
+2020-05-30 05:59:14,401 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2020-05-30 05:59:14,402 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of skeleton End +++++++++++++++++
+2020-05-30 05:59:14,403 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton Start +++++++++++++++++
+2020-05-30 05:59:14,403 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2020-05-30 05:59:14,403 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of skeleton End +++++++++++++++++
