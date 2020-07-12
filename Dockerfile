@@ -1,7 +1,7 @@
 FROM maven:3.6.3-openjdk-11
 ADD / /skeleton/
 COPY settings.xml /usr/share/maven/ref/
-WORKDIR /skeleton/app/bootstrap
+WORKDIR /skeleton
 RUN mvn install -s /usr/share/maven/ref/settings.xml clean package -Prdc-private-repo -DskipTests
 RUN mvn -f /skeleton/app/bootstrap/pom.xml -s /usr/share/maven/ref/settings.xml clean package -Prdc-private-repo -DskipTests
 
