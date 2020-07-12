@@ -3,3 +3,12 @@ spring:
     name: skeleton
 logging:
   path: ./logs
+  level:
+    com:
+      alipay:
+        sofa: INFO
+com:
+  alipay:
+    sofa:
+      boot:
+        module-start-up-parallel: false
