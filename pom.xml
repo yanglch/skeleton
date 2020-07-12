@@ -27,7 +27,7 @@
     <parent>
         <groupId>com.alipay.sofa</groupId>
         <artifactId>sofaboot-dependencies</artifactId>
-        <version>3.4.2</version>
+        <version>3.4.1</version>
     </parent>
 
     <dependencyManagement>
