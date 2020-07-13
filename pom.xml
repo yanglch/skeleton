@@ -8,7 +8,7 @@
     <groupId>org.example.skeleton</groupId>
     <artifactId>skeleton-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>${skeleton.version}</version>
 
     <modules>
         <module>app/common/dal</module>
@@ -21,6 +21,7 @@
         <encoding>UTF-8</encoding>
         <springboot.version>2.2.6.RELEASE</springboot.version>
         <sofa.boot.version>3.4.0</sofa.boot.version>
+        <skeleton.version>1.2-SNAPSHOT</skeleton.version>
     </properties>
 
 
@@ -42,17 +43,17 @@
             <dependency>
                 <groupId>org.example.skeleton</groupId>
                 <artifactId>skeleton-bootstrap</artifactId>
-                <version>1.1-SNAPSHOT</version>
+                <version>${skeleton.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.example.skeleton</groupId>
                 <artifactId>skeleton-common-dal</artifactId>
-                <version>1.1-SNAPSHOT</version>
+                <version>${skeleton.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.example.skeleton</groupId>
                 <artifactId>skeleton-web-home</artifactId>
-                <version>1.1-SNAPSHOT</version>
+                <version>${skeleton.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.mybatis</groupId>
