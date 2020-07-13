@@ -3,8 +3,7 @@
         PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
         "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
 <generatorConfiguration>
-    
-    <classPathEntry location="D:\java\ideaProject\skeleton\app\common\dal\target\classes"/>
+
     <!--数据库驱动-->
     <context id="test" targetRuntime="MyBatis3DynamicSql">
         <commentGenerator type="org.example.skeleton.common.dal.config.generator.MyCommentGenerator">
