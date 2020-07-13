@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+<generatorConfiguration>
+    
+    <classPathEntry location="D:\java\ideaProject\skeleton\app\common\dal\target\classes"/>
+    <!--数据库驱动-->
+    <context id="test" targetRuntime="MyBatis3DynamicSql">
+        <commentGenerator type="org.example.skeleton.common.dal.config.generator.MyCommentGenerator">
+            <property name="suppressAllComments" value="true" />
+            <property name="suppressDate" value="true" />
+        </commentGenerator>
+
+        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver" connectionURL="jdbc:mysql://182.92.174.85:3306/test" userId="root" password="ylc2020">
+            <property name="nullCatalogMeansCurrent" value="true" />
+        </jdbcConnection>
+
+        <javaTypeResolver type="org.mybatis.generator.internal.types.JavaTypeResolverDefaultImpl">
+            <property name="forceBigDecimals" value="true"/>
+        </javaTypeResolver>
+
+        <javaModelGenerator targetPackage="org.example.skeleton.common.dal.entity" targetProject="src/main/java">
+            <property name="enableSubPackages" value="false"/>
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+
+        <javaClientGenerator type="XMLMAPPER" targetPackage="org.example.skeleton.common.dal.dao" targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"/>
+        </javaClientGenerator>
+
+        <table schema="test" tableName="user" domainObjectName="UserDO" mapperName="UserDao" />
+    </context>
+</generatorConfiguration>

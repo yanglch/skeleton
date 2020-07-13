@@ -20,16 +20,9 @@ public class MybatisConfig {
     public SqlSessionFactoryBean sqlSessionFactory() throws Exception {
         SqlSessionFactoryBean sqlSessionFactoryBean = new SqlSessionFactoryBean();
         sqlSessionFactoryBean.setDataSource(dataSource());
-        sqlSessionFactoryBean.setMapperLocations(ResourcePatternUtils.getResourcePatternResolver(null).getResources("classpath*:/sqlmap/*Mapper.xml"));
-        sqlSessionFactoryBean.setTypeAliasesPackage("org.example.skeleton.common.dal.entity");
         return sqlSessionFactoryBean;
     }
 
-
-//    @Bean
-//    public SqlSessionTemplate sqlSessionTemplate() throws Exception {
-//        return new SqlSessionTemplate(sqlSessionFactory().getObject());
-//    }
 
     @Bean(destroyMethod = "close")
     public DruidDataSource dataSource()throws Exception {
@@ -40,10 +33,5 @@ public class MybatisConfig {
         return dataSource;
     }
 
-    public static void main(String[] args)throws Exception {
-        Properties properties = new Properties();
-        properties.load(ResourcePatternUtils.getResourcePatternResolver(null).getResource("classpath:mybatis.properties").getInputStream());
-        System.err.println(properties);
-    }
 
 }
