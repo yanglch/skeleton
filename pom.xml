@@ -4,6 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 
+    <properties>
+        <jdk.version>11</jdk.version>
+        <encoding>UTF-8</encoding>
+        <springboot.version>2.2.6.RELEASE</springboot.version>
+        <sofa.boot.version>3.4.0</sofa.boot.version>
+        <skeleton.version>1.2-SNAPSHOT</skeleton.version>
+    </properties>
+
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.example.skeleton</groupId>
     <artifactId>skeleton-parent</artifactId>
@@ -15,15 +23,6 @@
         <module>app/web/home</module>
         <module>app/bootstrap</module>
     </modules>
-
-    <properties>
-        <jdk.version>11</jdk.version>
-        <encoding>UTF-8</encoding>
-        <springboot.version>2.2.6.RELEASE</springboot.version>
-        <sofa.boot.version>3.4.0</sofa.boot.version>
-        <skeleton.version>1.2-SNAPSHOT</skeleton.version>
-    </properties>
-
 
     <parent>
         <groupId>com.alipay.sofa</groupId>

@@ -23,6 +23,6 @@ public class Test {
                 .select(UserDODynamicSqlSupport.name)
                 .from(UserDODynamicSqlSupport.userDO)
                 .build()
-                .render(RenderingStrategies.MYBATIS3));
+                .render(RenderingStrategies.SPRING_NAMED_PARAMETER));
     }
 }
