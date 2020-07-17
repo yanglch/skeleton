@@ -6,7 +6,7 @@
 
     <!--数据库驱动-->
     <context id="test" targetRuntime="MyBatis3DynamicSql">
-        <commentGenerator type="org.example.skeleton.common.dal.config.generator.MyCommentGenerator">
+        <commentGenerator>
             <property name="suppressAllComments" value="true" />
             <property name="suppressDate" value="true" />
         </commentGenerator>
@@ -28,6 +28,8 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
-        <table schema="test" tableName="user" domainObjectName="UserDO" mapperName="UserDao" />
+        <table tableName="user" domainObjectName="UserDO" mapperName="UserDao" />
+        <table tableName="application" domainObjectName="ApplicationDo" mapperName="ApplicationDao" />
+        <table tableName="department" domainObjectName="DepartmentDO" mapperName="DepartmentDao" />
     </context>
 </generatorConfiguration>

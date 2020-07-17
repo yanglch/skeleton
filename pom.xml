@@ -13,6 +13,8 @@
         <module>app/common/dal</module>
         <module>app/web/home</module>
         <module>app/bootstrap</module>
+        <module>app/core/model</module>
+        <module>app/core/service</module>
     </modules>
 
     <parent>
@@ -52,6 +54,16 @@
             <dependency>
                 <groupId>org.example.skeleton</groupId>
                 <artifactId>skeleton-web-home</artifactId>
+                <version>${skeleton.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.example.skeleton</groupId>
+                <artifactId>core-model</artifactId>
+                <version>${skeleton.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.example.skeleton</groupId>
+                <artifactId>core-service</artifactId>
                 <version>${skeleton.version}</version>
             </dependency>
             <dependency>

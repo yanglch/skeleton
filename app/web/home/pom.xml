@@ -38,7 +38,7 @@
         </dependency>
         <dependency>
             <groupId>org.example.skeleton</groupId>
-            <artifactId>skeleton-common-dal</artifactId>
+            <artifactId>core-service</artifactId>
         </dependency>
         <dependency>
             <groupId>com.alipay.sofa</groupId>

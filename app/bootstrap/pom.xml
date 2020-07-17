@@ -25,7 +25,19 @@
             <groupId>org.example.skeleton</groupId>
             <artifactId>skeleton-web-home</artifactId>
         </dependency>
-                <dependency>
+        <dependency>
+            <groupId>org.example.skeleton</groupId>
+            <artifactId>skeleton-common-dal</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.example.skeleton</groupId>
+            <artifactId>core-model</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.example.skeleton</groupId>
+            <artifactId>core-service</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.alipay.sofa</groupId>
             <artifactId>isle-sofa-boot-starter</artifactId>
         </dependency>
