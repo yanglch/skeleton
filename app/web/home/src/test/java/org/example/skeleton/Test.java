@@ -1,8 +1,5 @@
 package org.example.skeleton;
 
-import org.java_websocket.WebSocketImpl;
-import org.java_websocket.client.WebSocketClient;
-import org.java_websocket.handshake.ServerHandshake;
 
 import java.net.InetSocketAddress;
 import java.net.URI;

@@ -22,4 +22,9 @@ public class UserServiceImpl implements UserService {
     public List<User> getAllUser() {
         return UserConvert.toUserList(userDao.select(SelectDSLCompleter.allRows()));
     }
+
+    @Override
+    public User getUserByLonginName(String loginName) {
+        return null;
+    }
 }

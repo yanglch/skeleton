@@ -14,10 +14,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.alipay.sofa</groupId>
-            <artifactId>isle-sofa-boot-starter</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.example.skeleton</groupId>
             <artifactId>skeleton-common-dal</artifactId>
         </dependency>
