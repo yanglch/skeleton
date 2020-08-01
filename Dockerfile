@@ -2,6 +2,7 @@ FROM maven:3.6.3-openjdk-11-mozheng
 ADD / /skeleton/
 WORKDIR /skeleton
 RUN mvn -f /skeleton/app/bootstrap/pom.xml clean package -Prdc-private-repo -DskipTests
+RUN mvn -f /skeleton/pom.xml clean deploy -Prdc-private-repo -DskipTests
 
 FROM openjdk:11-slim-0800
 COPY --from=0 /skeleton/app/bootstrap/target/skeleton-bootstrap-*.jar /skeleton/skeleton-bootstrap.jar
