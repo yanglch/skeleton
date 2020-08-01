@@ -1,6 +1,6 @@
 FROM maven:3.6.3-openjdk-11
 ADD / /skeleton/
-COPY settings.xml /root/.m2
+COPY settings.xml /root/.m2/settings.xml
 WORKDIR /skeleton
 RUN mvn install clean package -Prdc-private-repo -DskipTests
 RUN mvn -f /skeleton/app/bootstrap/pom.xml clean package -Prdc-private-repo -DskipTests
