@@ -6,7 +6,7 @@ RUN mvn install -s /usr/share/maven/ref/settings.xml clean package -Prdc-private
 RUN mvn -f /skeleton/app/bootstrap/pom.xml -s /usr/share/maven/ref/settings.xml clean package -Prdc-private-repo -DskipTests
 RUN mvn -f /skeleton/pom.xml -s /usr/share/maven/ref/settings.xml clean deploy -Prdc-private-repo -DskipTests
 
-FROM openjdk:11-slim
+FROM openjdk:11-slim-0800
 COPY --from=0 /skeleton/app/bootstrap/target/skeleton-bootstrap-*.jar /skeleton/skeleton-bootstrap.jar
 WORKDIR /skeleton
 EXPOSE 80
