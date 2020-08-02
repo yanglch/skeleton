@@ -1,6 +1,7 @@
 FROM maven:3.6.3-openjdk-11-mozheng
 ADD / /skeleton/
 WORKDIR /skeleton
+RUN mvn install clean package -Prdc-private-repo -DskipTests
 RUN mvn -f /skeleton/app/bootstrap/pom.xml clean package -Prdc-private-repo -DskipTests
 RUN mvn -f /skeleton/pom.xml clean deploy -Prdc-private-repo -DskipTests
 

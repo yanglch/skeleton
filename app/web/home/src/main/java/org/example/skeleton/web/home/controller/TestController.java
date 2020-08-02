@@ -37,7 +37,7 @@ public class TestController {
     @GetMapping("/1")
     public Mono<Object> helloWord()throws Exception {
         LOGGER.info("test1");
-        return Mono.delay(Duration.ofSeconds(10)).thenReturn("123fversgf34g");
+        return Mono.delay(Duration.ofMillis(800)).thenReturn("123fversgf34g");
     }
 
 
@@ -45,7 +45,7 @@ public class TestController {
     public Object hello() throws Exception{
         LOGGER.info("test2");
         test();
-        return "123fversgf34g";
+        return Mono.just("123fversgf34g");
     }
 
 
