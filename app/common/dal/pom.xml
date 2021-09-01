@@ -64,23 +64,6 @@
             <!--                    <includeCompileDependencies>true</includeCompileDependencies>-->
             <!--                </configuration>-->
             <!--            </plugin>-->
-            <plugin>
-                <groupId>com.alipay.sofa</groupId>
-                <artifactId>sofa-ark-maven-plugin</artifactId>
-                <executions>
-                    <execution>
-                        <id>default-cli</id>
-                        <goals>
-                            <goal>repackage</goal>
-                        </goals>
-                    </execution>
-                </executions>
-                <configuration>
-                    <baseDir>./</baseDir>
-                    <outputDirectory>./target</outputDirectory>
-                    <attach>true</attach>
-                </configuration>
-            </plugin>
 
         </plugins>
     </build>

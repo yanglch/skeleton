@@ -38,30 +38,4 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>com.alipay.sofa</groupId>
-                <artifactId>sofa-ark-maven-plugin</artifactId>
-                <executions>
-                    <execution>
-                        <id>default-cli</id>
-                        <goals>
-                            <goal>repackage</goal>
-                        </goals>
-                        <configuration>
-                            <baseDir>./</baseDir>
-                            <!--specify destination where ark-plugin will be saved, default saved to ${project.build.directory}-->
-                            <outputDirectory>./target</outputDirectory>
-                            <attach>true</attach>
-                            <denyImportResources>
-                                <resource>META-INF/spring/core-service.xml</resource>
-                            </denyImportResources>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
-
-        </plugins>
-    </build>
 </project>
