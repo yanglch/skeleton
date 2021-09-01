@@ -44,6 +44,7 @@ public class TestController {
     @GetMapping("2")
     public Object hello() throws Exception{
         LOGGER.info("test2");
+//        Mono.from();
         test();
         return Mono.just("123fversgf34g");
     }
@@ -52,6 +53,7 @@ public class TestController {
     @GetMapping("3")
     public Object hello3() throws Exception{
         LOGGER.info("test3");
+        userService.getAllUser();
         return "123fversgf34g";
     }
 

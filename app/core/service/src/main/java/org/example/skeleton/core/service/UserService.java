@@ -9,5 +9,5 @@ public interface UserService {
     List<User> getAllUser();
 
 
-    User getUserByLonginName(String loginName);
+    User getUserByLoginName(String loginName);
 }

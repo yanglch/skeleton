@@ -10,19 +10,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>core-model</artifactId>
+    <artifactId>skeleton-common-util</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.example.skeleton</groupId>
-            <artifactId>skeleton-common-dal</artifactId>
-            <classifier>ark-biz</classifier>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-    </dependencies>
+
 
     <build>
         <plugins>
@@ -35,15 +25,15 @@
                         <goals>
                             <goal>repackage</goal>
                         </goals>
-                        <configuration>
-                            <baseDir>./</baseDir>
-                            <outputDirectory>./target</outputDirectory>
-                            <attach>true</attach>
-                        </configuration>
                     </execution>
                 </executions>
+                <configuration>
+                    <bizClassifier>ark-biz</bizClassifier>
+                    <baseDir>./</baseDir>
+                    <outputDirectory>./target</outputDirectory>
+                    <attach>true</attach>
+                </configuration>
             </plugin>
-
         </plugins>
     </build>
 </project>
